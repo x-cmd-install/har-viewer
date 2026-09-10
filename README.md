@@ -22,7 +22,14 @@ x install har-viewer
 - **Latest**: `v1.2.0` (2026-05-28)
 - **Last commit**: 2026-06-02
 - **Assets in release**: 3
-- **Published**: 2026-05-28T16:46:09Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [har-viewer-linux-arm64.tar.gz](https://github.com/nassendelft/har-viewer/releases/download/v1.2.0/har-viewer-linux-arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
+| [har-viewer-linux-x64.tar.gz](https://github.com/nassendelft/har-viewer/releases/download/v1.2.0/har-viewer-linux-x64.tar.gz) | 2.4 MiB | `native/unknown` |
+| [har-viewer-macos-arm64.tar.gz](https://github.com/nassendelft/har-viewer/releases/download/v1.2.0/har-viewer-macos-arm64.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
 
 ## Popularity
 
@@ -57,8 +64,8 @@ Total: **7,882** lines of code across **30** files in the top 5 languages.
 Install metadata for har-viewer lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `har-viewer` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/har-viewer.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/har-viewer.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:08:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:23:44Z._

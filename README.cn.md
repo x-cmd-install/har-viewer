@@ -4,7 +4,7 @@
 
 A terminal UI for inspecting HAR (HTTP Archive) files
 
-![har-viewer](https://repo.x-cmd.io/har-viewer.svg)
+![har-viewer](https://repo.x-cmd.io/har-viewer.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,14 @@ x install har-viewer
 - **最新版本**: `v1.2.0` (2026-05-28)
 - **最近提交**: 2026-06-02
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-05-28T16:46:09Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [har-viewer-linux-arm64.tar.gz](https://github.com/nassendelft/har-viewer/releases/download/v1.2.0/har-viewer-linux-arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
+| [har-viewer-linux-x64.tar.gz](https://github.com/nassendelft/har-viewer/releases/download/v1.2.0/har-viewer-linux-x64.tar.gz) | 2.4 MiB | `native/unknown` |
+| [har-viewer-macos-arm64.tar.gz](https://github.com/nassendelft/har-viewer/releases/download/v1.2.0/har-viewer-macos-arm64.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
 
 ## 流行度
 
@@ -61,4 +68,4 @@ har-viewer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:08:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:23:45Z._
