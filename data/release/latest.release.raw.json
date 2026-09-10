@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2542156,
       "digest": "sha256:3010df88099eaa0b61965055f69d807ee6bf5ef32a4cbb598b8049070ae78d54",
-      "download_count": 99,
+      "download_count": 101,
       "created_at": "2026-05-28T16:46:08Z",
       "updated_at": "2026-05-28T16:46:09Z",
       "browser_download_url": "https://github.com/nassendelft/har-viewer/releases/download/v1.2.0/har-viewer-linux-x64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1414800,
       "digest": "sha256:593712a29e7bca1fe38c670e9227f50ea30a2987d68f2f1d9591bd1431a459e2",
-      "download_count": 51,
+      "download_count": 52,
       "created_at": "2026-05-28T16:46:08Z",
       "updated_at": "2026-05-28T16:46:09Z",
       "browser_download_url": "https://github.com/nassendelft/har-viewer/releases/download/v1.2.0/har-viewer-macos-arm64.tar.gz"
